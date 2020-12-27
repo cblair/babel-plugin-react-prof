@@ -1,0 +1,28 @@
+{
+  "name": "babel-plugin-react-prof",
+  "version": "0.1.0",
+  "description": "",
+  "main": "src/index.js",
+  "type": "module",
+  "files": [
+    "src/index.js",
+    "src/reactProf"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:cblair/babel-plugin-react-prof.git"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/jest test/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/plugin-syntax-jsx": "^7.12.1",
+    "@babel/preset-react": "^7.12.10",
+    "babel-plugin-syntax-jsx": "^6.18.0",
+    "babel-plugin-tester": "^10.0.0",
+    "jest": "^26.6.3"
+  }
+}
