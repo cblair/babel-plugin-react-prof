@@ -15,7 +15,11 @@
   "scripts": {
     "test": "./node_modules/.bin/jest test/"
   },
-  "keywords": [],
+  "keywords": [
+    "babel",
+    "react",
+    "profile"
+  ],
   "author": "",
   "license": "ISC",
   "devDependencies": {
